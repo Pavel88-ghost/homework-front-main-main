@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cra-console1/static/css/main.073c9b0a.css",
-    "main.js": "/cra-console1/static/js/main.43338fc6.js",
-    "static/js/787.177e23c2.chunk.js": "/cra-console1/static/js/787.177e23c2.chunk.js",
-    "index.html": "/cra-console1/index.html",
-    "main.073c9b0a.css.map": "/cra-console1/static/css/main.073c9b0a.css.map",
-    "main.43338fc6.js.map": "/cra-console1/static/js/main.43338fc6.js.map",
-    "787.177e23c2.chunk.js.map": "/cra-console1/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/homework-front-main-main/static/css/main.073c9b0a.css",
+    "main.js": "/homework-front-main-main/static/js/main.b70de3e5.js",
+    "static/js/787.177e23c2.chunk.js": "/homework-front-main-main/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homework-front-main-main/index.html",
+    "main.073c9b0a.css.map": "/homework-front-main-main/static/css/main.073c9b0a.css.map",
+    "main.b70de3e5.js.map": "/homework-front-main-main/static/js/main.b70de3e5.js.map",
+    "787.177e23c2.chunk.js.map": "/homework-front-main-main/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.43338fc6.js"
+    "static/js/main.b70de3e5.js"
   ]
 }
